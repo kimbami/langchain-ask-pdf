@@ -35,3 +35,9 @@ streamlit run app.py
 This repository is for educational purposes only and is not intended to receive further contributions. It is supposed to be used as support material for the YouTube tutorial that shows how to build the project.
 
 
+## OPTIONAL
+Install library for Encryption
+```
+pip install pycryptodome==3.15.0
+pip install tiktoken
+```
